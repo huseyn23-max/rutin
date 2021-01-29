@@ -33,6 +33,7 @@ public class NewMain {
       int dauer = endet-beginn ;
       
       System.out.println("Beginn: " + beginn + "\nEndet: " + endet + "\nInsgesamt: " + dauer);
+        // eladi qaqas
       
       
         
